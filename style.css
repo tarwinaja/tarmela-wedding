@@ -448,9 +448,21 @@ footer li {
   }
 }
 /* Mobile Phone */
-@media (max-width: 576px) {
+@media (max-width: 300px) {
   html {
-    font-size: 55%;
+    font-size: 65%;
+  }
+  .hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(img/prewed.jpg);
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
   }
 
   .simply-countdown > .simply-section {
