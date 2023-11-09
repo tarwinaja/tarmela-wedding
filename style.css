@@ -452,9 +452,8 @@ footer li {
   html {
     font-size: 65%;
   }
-
   .simply-countdown > .simply-section {
-    padding: 45px;
+    padding: 35px;
     margin: 3px;
   }
   .timeline li .timeline-image {
