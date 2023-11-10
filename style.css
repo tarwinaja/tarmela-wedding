@@ -452,6 +452,16 @@ footer li {
   html {
     font-size: 65%;
   }
+
+  .mynavbar .navbar-brand,
+  .mynavbar .nav-link {
+    font-size: 1.2rem;
+  }
+
+  .sticky-top {
+    overflow: hidden;
+  }
+
   .simply-countdown > .simply-section {
     padding: 35px;
     margin: 3px;
