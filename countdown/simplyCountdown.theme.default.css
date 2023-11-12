@@ -1,7 +1,6 @@
 .simply-countdown {
   overflow: hidden;
   display: table;
-  /* font-family: "Arial", sans-serif; */
   margin: auto;
 }
 .simply-countdown > .simply-section {
